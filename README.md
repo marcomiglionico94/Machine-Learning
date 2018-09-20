@@ -4,6 +4,7 @@ Most of the notebooks have been done following the online Udemy course 'Python f
 
 # Topics
 The main topics covered are the following:
+ * Anomaly Detection
  * Linear Regression
  * Logistic Regression
  * K Nearest Neighbor
